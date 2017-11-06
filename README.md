@@ -1,0 +1,2 @@
+# Discord-Rust
+Rust updates
